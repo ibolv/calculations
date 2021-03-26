@@ -1,0 +1,5 @@
+﻿  scalar.cpp
+e:\kopys\scalar\scalar\scalar.cpp(80): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\kopys\scalar\scalar\scalar.cpp(94): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\kopys\scalar\scalar\scalar.cpp(108): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  scalar.vcxproj -> E:\kopys\scalar\Debug\scalar.exe

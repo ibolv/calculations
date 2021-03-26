@@ -1,0 +1,10 @@
+﻿  scalar.cpp
+scalar.cpp(78): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+scalar.cpp(92): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+scalar.cpp(106): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  3 of 26 functions (11.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  scalar.vcxproj -> E:\kopys\scalar\Release\scalar.exe
